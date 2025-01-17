@@ -7,8 +7,8 @@ body{
     background-image: url("uvu_logo.jpg");
 }
 
-.font_1{
-    font-family: "Courier New", Courier, monospace;
+a {
+    text-decoration: none  ;
 }
 
 
@@ -57,9 +57,11 @@ td {
 }
 
 
-a {
-    text-decoration: none  ;
+.font_1{
+    font-family: "Courier New", Courier, monospace;
 }
+
+
 
 a:hover {
     text-decoration: underline;
