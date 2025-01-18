@@ -56,6 +56,10 @@ td {
     background-color: mediumpurple;
 }
 
+.relax_schedule{
+    background-color: grey;
+}
+
 
 .font_1{
     font-family: "Courier New", Courier, monospace;
@@ -78,7 +82,7 @@ a:hover {
 }
 
 .white_bg {
-    padding: auto;
+    padding: 10px;
     margin: 10px;
     background-color: white;
     border: black solid ;
