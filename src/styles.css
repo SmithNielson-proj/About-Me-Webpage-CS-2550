@@ -1,0 +1,88 @@
+
+
+body{
+    margin-right: 200px;
+    margin-left: 200px;
+    text-align: center;
+    background-image: url("images/uvu_logo.jpg");
+}
+
+.font_1{
+    font-family: "Courier New", Courier, monospace;
+}
+
+
+table{
+    background-color: white;
+    padding: 5px;
+    width: 100%;
+    table-layout: fixed;
+    font-family: "Courier New", Courier, monospace;
+}
+
+th{
+    border:1px solid black;
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+}
+td {
+    border:1px solid black;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.work_schedule{
+    background-color:lightcoral;
+}
+
+
+.db_class_schedule{
+    background-color: lightblue;
+}
+
+.webdev_class_schedule{
+    background-color: lightseagreen;
+}
+
+.webprog_class_schedule{
+    background-color: lightgoldenrodyellow;
+}
+.sys_class_schedule{
+    background-color: darkgrey;
+}
+.homework_schedule{
+    background-color: mediumpurple;
+}
+
+
+a {
+    text-decoration: none  ;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.list {
+    font-family: "Courier New", Courier, monospace;
+    list-style-position: inside;
+    border: black solid ;
+    margin : 10px;
+    padding: 10px;
+    background-color: white;
+    text-align: left;
+}
+
+.white_bg {
+    padding: auto;
+    margin: 10px;
+    background-color: white;
+    border: black solid ;
+    font-family: "Courier New", Courier, monospace;
+    list-style-position: inside;
+
+}
+
+
